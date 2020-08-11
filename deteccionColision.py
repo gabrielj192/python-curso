@@ -111,5 +111,5 @@ while True:
 
     #Dibuja la ventana en la pantalla
     pygame.display.update()
-    relojPrincipal.tick(40)
+    relojPrincipal.tick(60)
     
